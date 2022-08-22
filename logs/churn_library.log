@@ -1,0 +1,10 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing EDA data:SUCCESS
+root - ERROR - ERROR: perform_eda returned Null variable in "test_eda" call 
+root - INFO - SUCCESS:New categorical mean dataframe created in "test_encoder_helper" call 
+root - ERROR - ERROR: perform_eda returned Null variable in "test_encoder_helper" call 
+root - INFO - SUCCESS:Data split into training and testing in "perform_feature_engineering" call
+root - INFO - SUCCESS: dataframe is not empty in "test_perform_feature_engineering" call 
+root - ERROR - ERROR: perform_feature_engineering returned Null variable in "test_perform_feature_engineering" call 
+root - INFO - SUCESS:Models trained in "train_models" call
+root - ERROR - ERROR: train_new_models returned a Null variable in                 "test_train_models" call
